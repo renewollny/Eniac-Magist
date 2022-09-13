@@ -1,5 +1,5 @@
 # Eniac-Magist
-### SQL/Tableau-Project from DataScience-Bootcamp
+### SQL/Tableau-Grouproject from DataScience-Bootcamp
 
 
 Eniac is an online marketplace specializing in Apple-compatible accessories. It was founded in Spain and it has grown and expanded to other neighboring countries.
